@@ -49,10 +49,14 @@ Machine Learning:-
 
 > Project Structure
 
-*app.py              
-*train_model.py      
+*app.py
+
+*train_model.py
+
 *house_model.pkl
+
 *house_scaler.pkl
+
 *README.md          
 
 > Technologies Used
