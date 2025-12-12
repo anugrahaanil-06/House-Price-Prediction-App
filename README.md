@@ -53,7 +53,7 @@ Machine Learning:-
 *train_model.py      
 *house_model.pkl
 *house_scaler.pkl
-README.md          
+*README.md          
 
 > Technologies Used
 
