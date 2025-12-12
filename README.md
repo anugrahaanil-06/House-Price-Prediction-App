@@ -48,11 +48,12 @@ Machine Learning:-
 *Balloon animation on prediction
 
 > Project Structure
-├── app.py              
-├── train_model.py      
-├── house_model.pkl 
-├── house_scaler.pkl
-└── README.md          
+
+*app.py              
+*train_model.py      
+*house_model.pkl
+*house_scaler.pkl
+README.md          
 
 > Technologies Used
 
